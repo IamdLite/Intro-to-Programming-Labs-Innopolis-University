@@ -1,0 +1,18 @@
+# Ignore text files
+*.txt
+
+# Ignore environment files
+.env
+
+# Ignore specific directories
+gpt
+gpt.c
+lab_1
+lab_2_2
+lab_3
+lab_3_sol
+lab_2
+lab2_2
+
+# Ignore specific files
+secret_config.json
