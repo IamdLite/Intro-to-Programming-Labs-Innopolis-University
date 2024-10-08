@@ -16,3 +16,6 @@ lab2_2
 
 # Ignore specific files
 secret_config.json
+capstone1.c
+moodle.c
+cmoodle
